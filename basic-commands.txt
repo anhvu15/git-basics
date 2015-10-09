@@ -8,3 +8,7 @@ git dff <filename> : check the differences between the working directory and the
 
 
 git commit -m "commit message"
+
+git log: shows a list of all previous commits
+commits are stored in chronologically in the repository. 40- character code, called a SHA, that uniquely identifues the commit.
+
