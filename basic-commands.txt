@@ -1,0 +1,10 @@
+git init
+
+git status
+
+-- untracked files means that Git sees the file but has not started tracking changes yet.
+
+git dff <filename> : check the differences between the working directory and the stagging area
+
+
+git commit -m "commit message"
