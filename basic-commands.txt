@@ -12,3 +12,5 @@ git commit -m "commit message"
 git log: shows a list of all previous commits
 commits are stored in chronologically in the repository. 40- character code, called a SHA, that uniquely identifues the commit.
 
+git remote set-url origin https://github.com/anhvu15/jscook.git
+
